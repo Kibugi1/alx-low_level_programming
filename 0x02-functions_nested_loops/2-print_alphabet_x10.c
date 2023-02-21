@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphabet_x10: Make alphabets x10 times
+ * print_alphabet_x10 - Make alphabets x10 times
  * Description: print lowercase alphabets
  * Return: void
  */
@@ -9,7 +9,7 @@
 void  print_alphabet_x10(void)
 {
 	char c;
-	int  i = 0;
+	int i = 0;
 
 	while (i <= 9)
 	{
